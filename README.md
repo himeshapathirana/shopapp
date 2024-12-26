@@ -1,16 +1,64 @@
-# shopapp
+# ShopApp
 
-A new Flutter project.
+A simple grocery shopping Flutter application with CRUD functionality, utilizing the Provider package for state management.
+
+## Features
+
+- Add, update, and delete grocery items (CRUD functionality).
+- Intuitive UI for managing your grocery list.
+- State management implemented using Provider.
+
+## Screenshots
+
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="images/intro.png" alt="Intro Screen" width="30%" />
+  <img src="images/home.png" alt="Home Screen" width="30%" />
+  <img src="images/cart.png" alt="Cart Screen" width="30%" />
+</div>
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Ensure you have the following installed:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Android Studio or Visual Studio Code with Flutter and Dart plugins
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/shopapp.git
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/shopapp.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd shopapp
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the application:
+   ```bash
+   flutter run
+   ```
+
+
+
+## Resources
+
+- [Flutter Documentation](https://docs.flutter.dev/)
+- [Provider Package](https://pub.dev/packages/provider)
+
+---
+
+Feel free to contribute or provide feedback to improve this application!
